@@ -1,6 +1,6 @@
 # ⚠️ WARNING: EDUCATIONAL PURPOSE ONLY
 <!--
-Copyright (c) 2024 [Soumit Santra]. All rights reserved.
+Copyright (c) 2025 [Soumit Santra]. All rights reserved.
 -->
 
 This keylogger is designed **STRICTLY FOR EDUCATIONAL PURPOSES**. Creating or using keyloggers for unauthorized monitoring is illegal and unethical. You could face serious legal consequences if used without explicit permission.
