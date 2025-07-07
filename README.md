@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 
@@ -86,10 +85,9 @@ This project demonstrates:
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
-
 > **For educational use only. Not for commercial or malicious use.**
 >
+---
 > **The author is not responsible for any misuse of this software.**
 
 ---
