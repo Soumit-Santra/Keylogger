@@ -1,64 +1,80 @@
-# ⚠️ WARNING: EDUCATIONAL PURPOSE ONLY
-<!--
-Copyright (c) 2025 [Soumit Santra]. All rights reserved.
--->
+# ⚠️ WARNING: EDUCATIONAL PURPOSES ONLY
 
-This keylogger is designed **STRICTLY FOR EDUCATIONAL PURPOSES**. Creating or using keyloggers for unauthorized monitoring is illegal and unethical. You could face serious legal consequences if used without explicit permission.
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Legal Disclaimer
+---
 
-- Using this software to monitor someone without their consent is **ILLEGAL**
-- The author takes NO responsibility and/or liability for how you choose to use this tool
-- By using this software, you agree to use it only for educational purposes on systems you own or have permission to test
+> **This project is for educational and ethical testing purposes only. Unauthorized use is illegal and unethical.**
 
-## Description
+---
 
-This is an intermediate-level keylogger implementation in Python that demonstrates various system monitoring capabilities:
+## 🚨 Legal Disclaimer
 
-- Keyboard input logging
-- Screenshot capture
-- Audio recording
-- Clipboard monitoring
-- System information collection
-- WiFi password extraction
+- **Do NOT use this software to monitor anyone without their explicit consent.**
+- The author assumes **NO responsibility** for misuse or damages.
+- By using this tool, you agree to use it **only for educational purposes** on systems you own or have written permission to test.
 
-## Requirements
+---
 
-- Python 3.x
-- Windows OS
-- Required packages will be automatically installed:
-  - pynput
-  - requests
-  - pywin32
-  - sounddevice
-  - scipy
-  - Pillow
+## 📖 Description
 
-## Usage
+This is an **intermediate-level Python keylogger** that demonstrates various system monitoring techniques for educational purposes:
 
-1. Run only on systems you own or have explicit permission to test
+- ⌨️ Keyboard input logging
+- 🖼️ Screenshot capture
+- 🎤 Audio recording
+- 📋 Clipboard monitoring
+- 💻 System information collection
+- 📶 WiFi password extraction
+
+---
+
+## 🛠️ Requirements
+
+- **Python 3.x**
+- **Windows OS**
+- The following packages will be installed automatically if missing:
+  - `pynput`
+  - `requests`
+  - `pywin32`
+  - `sounddevice`
+  - `scipy`
+  - `Pillow`
+
+---
+
+## 🚀 Usage
+
+1. **Run only on systems you own or have explicit written permission to test.**
 2. Execute the script:
-   ```
+   ```bash
    python keylogger.py
    ```
-3. The script will create an "information" directory containing:
-   - key_log.txt (keyboard inputs)
-   - system_info.txt (system details)
-   - wifi_pass.txt (saved WiFi credentials)
-   - clipboard.txt (clipboard content)
-   - screenshots/ (screen captures)
-   - audio/ (sound recordings)
+3. The script creates an `information` directory containing:
+   - `key_log.txt` — Keyboard inputs
+   - `system_info.txt` — System details
+   - `wifi_pass.txt` — Saved WiFi credentials
+   - `clipboard.txt` — Clipboard content
+   - `screenshots/` — Screen captures
+   - `audio/` — Sound recordings
 
-## Ethical Considerations
+---
 
-- Always obtain written permission before testing
-- Never use for malicious purposes
-- Keep logs secure and delete after testing
-- Respect privacy and data protection laws
+## ⚖️ Ethical Considerations
 
-## Educational Value
+- Always obtain **written permission** before testing.
+- Never use for malicious or unauthorized purposes.
+- Keep logs secure and delete after testing.
+- Respect privacy and comply with all data protection laws.
 
-This code demonstrates:
+---
+
+## 🎓 Educational Value
+
+This project demonstrates:
+
 - Python file operations
 - System interaction
 - Multi-threading
@@ -66,10 +82,14 @@ This code demonstrates:
 - Audio/visual capture
 - Network information gathering
 
-## License
+---
 
-For educational use only. Not for commercial or malicious use.
+## 📄 License
 
-**I am not responsible for any malicious use of this software.**
+This project is licensed under the [MIT License](LICENSE).
 
-This project is open-sourced software licensed under the **MIT license**.
+> **For educational use only. Not for commercial or malicious use.**
+>
+> **The author is not responsible for any misuse of this software.**
+
+---
