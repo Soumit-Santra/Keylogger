@@ -265,8 +265,8 @@ Contributions for educational improvements are welcome! Please ensure all contri
 ---
 
 ## 📧 Contact
-
-For educational questions or responsible disclosure of issues, please contact the project maintainers.
+**Soumit Santra**  
+For educational questions, suggestions, or collaboration opportunities.
 
 ---
 
