@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![License](https://img.shields.io/badge/License-Educational%20Only-orange)
 ![Security](https://img.shields.io/badge/Security-Authorized%20Testing%20Only-red)
-![Status](https://img.shields.io/badge/Status-Educational%20Project-green)
+
 
 **Created for Educational and Ethical Testing Purposes**  
 © 2025 Educational Security Tools. All rights reserved.
