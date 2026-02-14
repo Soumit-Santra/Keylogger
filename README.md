@@ -7,7 +7,7 @@
 
 
 **Created for Educational and Ethical Testing Purposes**  
-© 2025 Educational Security Tools. All rights reserved.
+© 2026 Educational Security Tools. All rights reserved.
 
 ---
 
