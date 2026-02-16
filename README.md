@@ -87,8 +87,8 @@ The following packages will be installed automatically if missing:
 
 1. **Clone or download** the repository:
    ```bash
-   git clone git clone https://github.com/Soumit-Santra/Keylogger
-   cd educational-keylogger
+   git clone https://github.com/Soumit-Santra/Keylogger
+   cd keylogger
    ```
 
 2. **Ensure Python 3.6+** is installed:
